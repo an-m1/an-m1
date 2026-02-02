@@ -17,6 +17,10 @@
 
   <!-- Socials -->
   <p>
+    <a href="https://drive.google.com/file/d/14mHTzo4AEz-yiJpafMgq3Jkw3MCWtzi5/view?usp=sharing">
+      <img src="https://img.shields.io/badge/Resume-crimson?style=for-the-badge&logo=bookstack&logoColor=white&logoSize=auto"
+      alt="Resume"/>
+    </a>
     <a href="https://linkedin.com/in/ankitmodhera">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
