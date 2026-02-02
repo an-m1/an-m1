@@ -142,9 +142,24 @@ I’m drawn to projects where clean software design, strong problem-solving, and
 
 </div>
 
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/14mHTzo4AEz-yiJpafMgq3Jkw3MCWtzi5/view?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
-  Optional ideas to make it even less “dull”:
+     Thanks for being my guest :)
+-->
+
+
+
+<!--
+  Future ideas to make it even less “dull”:
   - Add a pinned-projects section with 3–6 repos + one-liner descriptions.
   - Add a small robotics section with 2–3 bullets: sensors, ROS, OpenCV, Arduino/RPi, etc.
   - Add a “Now” section that you update monthly.
